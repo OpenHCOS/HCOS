@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:show id="ps_com_cbh_entity_Disease" object="${disease}" path="/diseases" z="Men9HqJk2UBHHk9ckHvtvOJtHco=">
+        <field:display field="docCategory" id="s_com_cbh_entity_Disease_docCategory" object="${disease}" z="OHTRGRCWCUxbIbHUhJbjjtn0fB0="/>
+        <field:display field="category" id="s_com_cbh_entity_Disease_category" object="${disease}" z="H4tNXlujqmp2cS9AvNuM73gGIxc="/>
+        <field:display field="bigCategory" id="s_com_cbh_entity_Disease_bigCategory" object="${disease}" z="IYzFGUlPgqa2rhWbj7i0UzZp5+Q="/>
+        <field:display field="symptom" id="s_com_cbh_entity_Disease_symptom" object="${disease}" z="5qNeS4Ncygoap/5SExI73oyU1A8="/>
+        <field:display field="orderDis" id="s_com_cbh_entity_Disease_orderDis" object="${disease}" z="YY6PV75w9CxEOpvoU4Lq84URaZs="/>
+    </page:show>
+</div>

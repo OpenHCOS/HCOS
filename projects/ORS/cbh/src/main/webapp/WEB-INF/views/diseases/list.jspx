@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:list id="pl_com_cbh_entity_Disease" items="${diseases}" z="ShnHcS9SNSyfAyE4++Socqg19BY=">
+        <table:table data="${diseases}" id="l_com_cbh_entity_Disease" path="/diseases" z="ciZcUTmZ36cE/V9UaPp9s1Kz1NU=">
+            <table:column id="c_com_cbh_entity_Disease_docCategory" property="docCategory" z="kTDIM/tgAQ+wP2Gdgld2p1Xo8Is="/>
+            <table:column id="c_com_cbh_entity_Disease_category" property="category" z="ZIJ5fNbaJwUKODjpb0iMBfOqfSM="/>
+            <table:column id="c_com_cbh_entity_Disease_bigCategory" property="bigCategory" z="Ue+1KZ1+ok0wHiYeYCdcND0RrlI="/>
+            <table:column id="c_com_cbh_entity_Disease_symptom" property="symptom" z="u+xkvO+rYpkvF7xgWm9od7Qoasc="/>
+            <table:column id="c_com_cbh_entity_Disease_orderDis" property="orderDis" z="4uehsn5wQoiC0yr6r8TB0uhaiO4="/>
+        </table:table>
+    </page:list>
+</div>

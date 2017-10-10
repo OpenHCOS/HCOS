@@ -1,0 +1,34 @@
+// Spring Roo 1.3.3.BUILD-SNAPSHOT [rev d18aef8] log opened at 2017-05-06 11:15:53
+project --topLevelPackage com.cbh
+jpa setup --provider HIBERNATE --database MYSQL --databaseName chatbottest  --userName root --password root
+addon search jdbc
+download status
+download accept terms of use
+addon search jdbc
+osgi obr url add --url http://spring-roo-repository.springsource.org/repository.xml
+osgi obr deploy --bundleSymbolicName org.springframework.roo.wrapping.mysql-connector-java
+osgi obr url remove --url http://spring-roo-repository.springsource.org/repository.xml
+osgi obr url add --url http://spring-roo-repository.springsource.org/repository.xml
+osgi obr deploy --bundleSymbolicName org.springframework.roo.wrapping.derbyclient
+osgi obr url remove --url http://spring-roo-repository.springsource.org/repository.xml
+osgi obr url add --url http://spring-roo-repository.springsource.org/repository.xml
+osgi obr deploy --bundleSymbolicName org.springframework.roo.wrapping.postgresql-jdbc4
+osgi obr url remove --url http://spring-roo-repository.springsource.org/repository.xml
+addon install id --searchResultId 01
+database reverse engineer --schema chatbottest --package ~.entity
+web mvc setup
+web mvc all --package ~.web
+web mvc json all --package ~.api
+quit
+// Spring Roo 1.3.3.BUILD-SNAPSHOT [rev d18aef8] log closed at 2017-05-06 11:17:06
+// Spring Roo 1.3.3.BUILD-SNAPSHOT [rev d18aef8] log opened at 2017-05-13 22:59:40
+entity jpa --class ~.transfer.CallToActionsItem
+entity jpa --class ~.entity.CallToActionsItem
+// [failed] entity jpa --class ~.entity.CallToActionsItem --identifierType java.lang.String
+quit
+// Spring Roo 1.3.3.BUILD-SNAPSHOT [rev d18aef8] log closed at 2017-05-13 23:23:17
+// Spring Roo 1.3.3.BUILD-SNAPSHOT [rev d18aef8] log opened at 2017-05-13 23:23:21
+entity jpa --class ~.entity.CallToActionsItem --identifierType java.lang.String
+field string --fieldName tile
+field string --fieldName type
+field string --fieldName payload
