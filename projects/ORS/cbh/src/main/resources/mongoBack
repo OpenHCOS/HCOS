@@ -1,0 +1,2 @@
+ mongodump --db chatterbot-database  --authenticationDatabase=admin -u username -p password -o .
+  tar cvf chatterbot-database.tar  chatterbot-database/

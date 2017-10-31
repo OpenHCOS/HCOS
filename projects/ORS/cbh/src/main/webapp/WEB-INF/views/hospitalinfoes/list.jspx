@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:list id="pl_com_cbh_entity_HospitalInfo" items="${hospitalinfoes}" z="99c1u39QRM95ien2Wxf9B5UhgA4=">
+        <table:table data="${hospitalinfoes}" id="l_com_cbh_entity_HospitalInfo" path="/hospitalinfoes" z="/K1npIhHHR84dDmraZuKMxkPIHY=">
+            <table:column id="c_com_cbh_entity_HospitalInfo_hpCode" property="hpCode" z="160+opLvH2yqBGzKvoCJykjxkh4="/>
+            <table:column id="c_com_cbh_entity_HospitalInfo_hpName" property="hpName" z="nq0sJOiZjeCiw2jKDSXUkgHbij8="/>
+            <table:column id="c_com_cbh_entity_HospitalInfo_hpAuth" property="hpAuth" z="ikdOLjjiQWwPw1Rg5awuDu85OmQ="/>
+            <table:column id="c_com_cbh_entity_HospitalInfo_hpType" property="hpType" z="J/zOK2/WgISjR73dhTD5oL3GtRc="/>
+            <table:column id="c_com_cbh_entity_HospitalInfo_cityName" property="cityName" z="2BHS4PT08jWaUw0GxoMVJTvbvsM="/>
+            <table:column id="c_com_cbh_entity_HospitalInfo_phoneNo" property="phoneNo" z="Rrw6Z//N84jV27zQhamE7+ENRlc="/>
+        </table:table>
+    </page:list>
+</div>

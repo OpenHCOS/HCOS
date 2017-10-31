@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:form="urn:jsptagdir:/WEB-INF/tags/form" xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <form:update id="fu_com_cbh_entity_HospitalInfo" modelAttribute="hospitalInfo" path="/hospitalinfoes" versionField="none" z="x/xmgzfgDtyrunx/AJ6ZV2V1Rks=">
+        <field:input field="hpCode" id="c_com_cbh_entity_HospitalInfo_hpCode" z="Tuf9hFTb0Xz1ijRRpZirEH2+qx0="/>
+        <field:input field="hpName" id="c_com_cbh_entity_HospitalInfo_hpName" z="cIINGS78pAWXyprGWgzV2IT91Jg="/>
+        <field:input field="hpAuth" id="c_com_cbh_entity_HospitalInfo_hpAuth" z="Gc/lGxEQCLkX6z6On/oFTbrSNlE="/>
+        <field:input field="hpType" id="c_com_cbh_entity_HospitalInfo_hpType" z="y7qI7ZJsuJd0d1VZ4vYoPS3lWgY="/>
+        <field:input field="cityName" id="c_com_cbh_entity_HospitalInfo_cityName" z="NUCyOrLryCl3joFAVvjRPUe/DEc="/>
+        <field:input field="phoneNo" id="c_com_cbh_entity_HospitalInfo_phoneNo" z="JQIBBmJk4254VLEE7ji+ujH02TI="/>
+        <field:input field="address" id="c_com_cbh_entity_HospitalInfo_address" z="Wb+Yy3MK04+PAUQN4s4XCoe4kzY="/>
+        <field:input field="medicalTreatmentSection" id="c_com_cbh_entity_HospitalInfo_medicalTreatmentSection" z="SGBqMzhMeLtC2Vw2IrfjTQv1Xvg="/>
+        <field:input field="westernDoctor" id="c_com_cbh_entity_HospitalInfo_westernDoctor" z="jTtY2HGrSN27PjNr788J8a+4j9k="/>
+        <field:input field="chineseMedicinePractitioners" id="c_com_cbh_entity_HospitalInfo_chineseMedicinePractitioners" z="l1LUsw+RDAJRN7BAt3PaRP4LXmk="/>
+        <field:input field="dentist" id="c_com_cbh_entity_HospitalInfo_dentist" z="Y8PCDO1uuWhPQ5EAOAvJu+dd4ss="/>
+        <field:input field="pharmacist" id="c_com_cbh_entity_HospitalInfo_pharmacist" z="mupJ8R3bScD6alYrgpvHdJIYKqs="/>
+        <field:input field="pharmacyHealth" id="c_com_cbh_entity_HospitalInfo_pharmacyHealth" z="Okhs+6tkDrPqMbi4TEdztTPhBWI="/>
+        <field:input field="nursingDivision" id="c_com_cbh_entity_HospitalInfo_nursingDivision" z="Gh50oh5cFvwNB2lJEsyygT1iI6A="/>
+        <field:input field="nurse" id="c_com_cbh_entity_HospitalInfo_nurse" z="scFkWP4UQGOGBHQ67ORmXyTF/bU="/>
+        <field:input field="midwife" id="c_com_cbh_entity_HospitalInfo_midwife" z="4lD5Mm7M/RNvIkKXthqnw9eZkKo="/>
+        <field:input field="midwifeAsist" id="c_com_cbh_entity_HospitalInfo_midwifeAsist" z="Grdxlr6z9mIh5ban/r0mENeyTYk="/>
+        <field:input field="medicalExaminer" id="c_com_cbh_entity_HospitalInfo_medicalExaminer" z="8oH/Oa7IOh3a9g6eO3N2rTBZLDQ="/>
+        <field:input field="medicalExaminerAsist" id="c_com_cbh_entity_HospitalInfo_medicalExaminerAsist" z="b5GwBfCBnAnsp9z1R4J+P9EOYGw="/>
+        <field:input field="physicalTherapist" id="c_com_cbh_entity_HospitalInfo_physicalTherapist" z="GbSOZCK0t2WfRJBKFiu0LEYaRoE="/>
+        <field:input field="functionalTherapist" id="c_com_cbh_entity_HospitalInfo_functionalTherapist" z="/91kmzdRznLZAwmBtWzhLQFGl/k="/>
+        <field:input field="medicalRadiologist" id="c_com_cbh_entity_HospitalInfo_medicalRadiologist" z="/Mff+8PvilXxtnksULzCO0panZk="/>
+        <field:input field="medicalLiterati" id="c_com_cbh_entity_HospitalInfo_medicalLiterati" z="0NexnV0qwS+ELLpI790B8NziuZs="/>
+        <field:input field="physicalTherapy" id="c_com_cbh_entity_HospitalInfo_physicalTherapy" z="u8RfjUx+24Xl3DYmChFit1IbK7I="/>
+        <field:input field="respiratoryTherapist" id="c_com_cbh_entity_HospitalInfo_respiratoryTherapist" z="dNsrDKrffYZ3AEcYkzx1FA6+pq0="/>
+        <field:input field="functionalTherapy" id="c_com_cbh_entity_HospitalInfo_functionalTherapy" z="pnqGt8k6Fq2rmtjUurhgD1YqgTg="/>
+        <field:input field="consultAPsychologist" id="c_com_cbh_entity_HospitalInfo_consultAPsychologist" z="eRWqmZK1QzP5nSXCxGp3NET+jbg="/>
+        <field:input field="clinicalPsychologist" id="c_com_cbh_entity_HospitalInfo_clinicalPsychologist" z="QThKtay2wSbUOk1tsxHQAetyhQI="/>
+        <field:input field="nutritionist" id="c_com_cbh_entity_HospitalInfo_nutritionist" z="6Kutt9krofXO4CPgBn9S5xtXFnQ="/>
+        <field:input field="languageTherapist" id="c_com_cbh_entity_HospitalInfo_languageTherapist" z="vQcuGNr758AkbwRO/Txf1whwYKo="/>
+        <field:input field="dentalTechnician" id="c_com_cbh_entity_HospitalInfo_dentalTechnician" z="NZduanXc1zqlarYc4oK2LPgVa+U="/>
+        <field:input field="listener" id="c_com_cbh_entity_HospitalInfo_listener" z="7aUVjz6ApnaLM34cJZqdlIadm1E="/>
+        <field:input field="dentalTechnicianAsist" id="c_com_cbh_entity_HospitalInfo_dentalTechnicianAsist" z="0p644uKiDdkB+supokDnlVoW8DY="/>
+    </form:update>
+</div>
