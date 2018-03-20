@@ -1,0 +1,15 @@
+Author: https://github.com/Prodisky
+Date: 2018/3/20
+
+Limit: suggest to use python 2.7
+
+Usage:
+1. Data source download: https://docs.google.com/spreadsheets/d/11XRXJnxH_d1dDcN7p1sVahZa9aA_-PYmX8J_MZXPhZc/edit#gid=153677532
+2. export 2 tables as CSV format
+3. python CSV2JSON.py
+input: 
+    Omaha System 三大表格 - 問題與徵兆對照表.csv
+    Omaha System 三大表格 - 42項問題表.csv
+output: 
+    Omaha System.json
+

@@ -1,0 +1,377 @@
+面向代號,面向代號,問題,症狀與徵兆,,
+D1.環境面向,D1,1,1,low/no income,低或無收入
+D1.環境面向,D1,1,2,uninsured medical expenses,沒有醫療保險
+D1.環境面向,D1,1,3,inadequate money manaement,錢財管理困難
+D1.環境面向,D1,1,4,able to buy only necessities,僅能維持日常所需
+D1.環境面向,D1,1,5,difficulty buying necessities,連日常所需都無力維持
+D1.環境面向,D1,1,6,other,其他
+D1.環境面向,D1,2,1,soiled living area,髒亂的生活區
+D1.環境面向,D1,2,2,inadequate food storage/disposal,缺乏存糧/缺乏備餐能力
+D1.環境面向,D1,2,3,insects/rodents,昆蟲/囓齒動物(老鼠?)
+D1.環境面向,D1,2,4,foul odor,惡臭
+D1.環境面向,D1,2,5,inadequate water supply,水源不足
+D1.環境面向,D1,2,6,inadequate sewage disposal,汙水處理不足
+D1.環境面向,D1,2,7,inadequate laundry facilities,洗衣設施不足
+D1.環境面向,D1,2,8,allergens,過敏原
+D1.環境面向,D1,2,9,infectious/contaminating agents,傳染源/汙染物
+D1.環境面向,D1,2,10,presence of mold,TBD
+D1.環境面向,D1,2,11,excessive pets,過多寵物
+D1.環境面向,D1,2,12,other,
+D1.環境面向,D1,3,2,inadequate heating/cooling,不足的冷暖氣
+D1.環境面向,D1,3,3,steep/unsafe stairs,很陡/不安全的階梯
+D1.環境面向,D1,3,4,inadequate/obstructed exits/entries,缺乏/不通的進出口
+D1.環境面向,D1,3,5,cluttered living space,雜物遍布
+D1.環境面向,D1,3,6,unsafe storage of dangerous objects/substances,儲存危險物品/物質
+D1.環境面向,D1,3,7,unsafe mats/throw rugs,不安全的地墊/滑動的地毯
+D1.環境面向,D1,3,8,inadequate safety devices,缺乏安源的裝備
+D1.環境面向,D1,3,9,presence of lead-based paint,空間以鉛基油漆塗裝
+D1.環境面向,D1,3,10,unsafe appliances/equiptment,不安全的用具/設備
+D1.環境面向,D1,3,11,inadequate/crowded living space,不足/擁擠的生活空間
+D1.環境面向,D1,3,12,exposed wiring,管線外露
+D1.環境面向,D1,3,13,structural barriers,結構性障礙
+D1.環境面向,D1,3,14,homeless,無家可歸
+D1.環境面向,D1,3,15,other,其他
+D1.環境面向,D1,4,1,high crime rate,高犯罪率
+D1.環境面向,D1,4,2,high pollution level,高汙染等級
+D1.環境面向,D1,4,3,uncontrolled/dangerous/infected animals,不受控/危險的/帶病的動物
+D1.環境面向,D1,4,4,inadequate/unsafe play/exercise areas,不足的/不安全遊戲場或運動場
+D1.環境面向,D1,4,5,inadequate space/resources to foster health,不足的空間與資源促進健康
+D1.環境面向,D1,4,6,threats/reports of violence,正在或被通報遭受暴力
+D1.環境面向,D1,4,7,physical hazards,物理性危害
+D1.環境面向,D1,4,8,vehicle/traffic hazards,車輛/交通危害
+D1.環境面向,D1,4,9,chemical hazards,化學性危害
+D1.環境面向,D1,4,10,radiological hazards,放射線危害
+D1.環境面向,D1,3,1,structurally unsound,不穩固的建築
+D2.心理社會面向,D2,1,1,unfamiliar with options/procedures for obtaining services,難以理解服務提供者的角色與法規限制
+D2.心理社會面向,D2,1,2,difficulty understanding roles/regulations of service providers,不知如何向服務提供者提出訴求
+D2.心理社會面向,D2,1,3,unable to communicate concerns to provider,不滿服務
+D2.心理社會面向,D2,1,4,dissatisfaction with services,缺乏可及資源
+D2.心理社會面向,D2,1,5,inadequate/unavailable resources,語言阻礙
+D2.心理社會面向,D2,1,6,language barrier,文化阻礙
+D2.心理社會面向,D2,1,7,cultural barrier,教育阻礙
+D2.心理社會面向,D2,1,8,educational barrier,交通運輸阻礙
+D2.心理社會面向,D2,1,9,transportation barrier,求助管道有限(照顧、服務、物資)
+D2.心理社會面向,D2,1,10,limited access to care/services/goods,不用會/沒有通訊設備
+D2.心理社會面向,D2,1,11,unable to use/has inadequate communication devices/equiptment,TBD
+D2.心理社會面向,D2,1,12,Other,其他
+D2.心理社會面向,D2,2,1,limited social contact,有限的社交
+D2.心理社會面向,D2,2,2,uses health care provider for social contact,耗用健康照護提供者當社交
+D2.心理社會面向,D2,2,3,minimal outside stimulation/leisure time activities,很少戶外刺激與休閒活動
+D2.心理社會面向,D2,2,4,Other,其他
+D2.心理社會面向,D2,3,1,involuntary role reversal,非自願的角色轉換
+D2.心理社會面向,D2,3,2,assumes new role,承擔新角色
+D2.心理社會面向,D2,3,3,loses previous role,失去過往角色功能
+D2.心理社會面向,D2,3,4,Other,其他
+D2.心理社會面向,D2,4,1,difficulty establishing/maintaining relationships,難建立或維持關係
+D2.心理社會面向,D2,4,2,minimal shared activities,吝於分享
+D2.心理社會面向,D2,4,3,incongruent values/goals/expectations/schedules,眼高手低
+D2.心理社會面向,D2,4,4,inadequate interpersonal communication skills,缺乏溝通技巧
+D2.心理社會面向,D2,4,5,"prolonged, unrelieved tension",沒完沒了的僵局
+D2.心理社會面向,D2,4,6,inappropriate suspicion/manipulation/control,控制狂
+D2.心理社會面向,D2,4,7,physically/emotionally abusive to partner,對伴侶進行身心虐待
+D2.心理社會面向,D2,4,8,difficulty problem solving without conflict,不動干戈解決難題
+D2.心理社會面向,D2,4,9,Other,其他
+D2.心理社會面向,D2,5,1,expresses spiritual concerns,TBD
+D2.心理社會面向,D2,5,2,disrupted spiritual rituals,具爭議的宗教儀式
+D2.心理社會面向,D2,5,3,disrupted spiritual trust,TBD
+D2.心理社會面向,D2,5,4,conflicting spiritual beliefs and medical/health care regimen,TBD
+D2.心理社會面向,D2,5,5,Other,其他
+D2.心理社會面向,D2,6,1,fails to recognize stages of grief/process of healing,TBD
+D2.心理社會面向,D2,6,2,difficulty coping with grief responses,難以調適的哀傷反應
+D2.心理社會面向,D2,6,3,difficulty expressing grief responses,難以言表的哀傷反應
+D2.心理社會面向,D2,6,4,conflicting stages of grief among individuals/families,TBD
+D2.心理社會面向,D2,6,5,Other,其他
+D2.心理社會面向,D2,7,1,sadness/hopelessness/decreased self-esteem,悲傷/無望/低自尊
+D2.心理社會面向,D2,7,2,apprehension/undefined fear,杞人憂天
+D2.心理社會面向,D2,7,3,loss of interest/involvement in activities/self-care,對參與活動/自我照顧失去興趣
+D2.心理社會面向,D2,7,4,narrowed to scattered attention/focus,狹隘導致 分散注意力與焦點
+D2.心理社會面向,D2,7,5,flat affect,情感平淡
+D2.心理社會面向,D2,7,6,irritable/agitated/aggressive,焦躁/激動/侵略性
+D2.心理社會面向,D2,7,7,purposeless/compulsive activity,強迫性無目的行為
+D2.心理社會面向,D2,7,8,difficulty managing stress,難控制壓力
+D2.心理社會面向,D2,7,9,difficulty managing anger,難控制怒氣
+D2.心理社會面向,D2,7,10,somatic complaints/fatigue,身體症狀/疲勞
+D2.心理社會面向,D2,7,11,delusions,妄想
+D2.心理社會面向,D2,7,12,hallucinations/illusions,幻覺/幻想
+D2.心理社會面向,D2,7,13,expresses suicidal/homicidal thoughts,表達自傷傷人想法
+D2.心理社會面向,D2,7,14,attempts suicide/homicide,企圖自傷/傷人
+D2.心理社會面向,D2,7,15,self-mutilation,自殘
+D2.心理社會面向,D2,7,16,mood swings,情緒波動
+D2.心理社會面向,D2,7,17,flash-backs,情境再現
+D2.心理社會面向,D2,7,18,Other,其他
+D2.心理社會面向,D2,8,1,difficulty recognizing consequences of sexual behavior,TBD
+D2.心理社會面向,D2,8,2,difficulty expressing intimacy,難以表達親密
+D2.心理社會面向,D2,8,3,sexual identity confusion,性別認同混淆
+D2.心理社會面向,D2,8,4,sexual value confusion,性價值混亂
+D2.心理社會面向,D2,8,5,dissatisfied with sexual relationships,性飢渴
+D2.心理社會面向,D2,8,6,unsafe sexual practices,不安全性行為
+D2.心理社會面向,D2,8,7,sexual acting out/provocative behaviors/harassment,性衝動/性挑逗/性騷擾
+D2.心理社會面向,D2,8,8,sexual perpetration/assault,性犯罪/毆打
+D2.心理社會面向,D2,8,9,Other,其他
+D2.心理社會面向,D2,9,1,difficulty providing physical care/safety,難以提供生理照護與安全
+D2.心理社會面向,D2,9,2,difficulty providing emotional nurturance,難以提供情感滋養
+D2.心理社會面向,D2,9,3,difficulty providing cognitive learning experiences and activities,難以提供認知學習經驗與活動
+D2.心理社會面向,D2,9,4,difficulty providing preventive and therapeutic health care,難以提供預防保健照護
+D2.心理社會面向,D2,9,5,expectations incongruent with stage of growth and development,揠苗助長
+D2.心理社會面向,D2,9,6,dissatisfaction/difficulty with responsibilities,TBD
+D2.心理社會面向,D2,9,7,difficulty interpreting or responding to verbal/nonverbal communication,難有語言非語言之互動或回應
+D2.心理社會面向,D2,9,8,neglectful,忽視
+D2.心理社會面向,D2,9,9,abusive,辱罵
+D2.心理社會面向,D2,9,10,Other,其他
+D2.心理社會面向,D2,10,1,acks adequate physical care,身體照顧缺失
+D2.心理社會面向,D2,10,2,lacks emotional nurturance/support,缺乏情緒滋養與支持
+D2.心理社會面向,D2,10,3,lacks appropriate stimulation/cognitive experiences,缺乏合式的刺激與認知經驗
+D2.心理社會面向,D2,10,4,inappropiately left alone,不合宜的任其獨處
+D2.心理社會面向,D2,10,5,lacks necessary supervision,放牛吃草
+D2.心理社會面向,D2,10,6,inadequate/delayed medical care,不適當或延遲就醫
+D2.心理社會面向,D2,10,7,Other,其他
+D2.心理社會面向,D2,11,1,harsh/excessive discipline,TBD
+D2.心理社會面向,D2,11,2,welts/burns/other injuries,傷痕與燒傷或其他傷勢
+D2.心理社會面向,D2,11,3,questionable explanation of injury,不合理的傷勢
+D2.心理社會面向,D2,11,4,attacked verbally,TBD
+D2.心理社會面向,D2,11,5,fearful/hypervigilant behavior,TBD
+D2.心理社會面向,D2,11,6,violent environment,暴力環境
+D2.心理社會面向,D2,11,7,consistent negative messages,TBD
+D2.心理社會面向,D2,11,8,assaulted sexually,性暴力
+D2.心理社會面向,D2,11,9,Other,其他
+D2.心理社會面向,D2,12,1,abnormal results of developmental screening tests,發展檢核量表有異常
+D2.心理社會面向,D2,12,2,abnormal weight/height/head circumference in relation growth/aging standards,偏離該年齡生長發育平均值(體重/身高/頭圍)
+D2.心理社會面向,D2,12,3,age-inappropriate behavior,與年齡不相符的行為舉止
+D2.心理社會面向,D2,12,4,inadequate achieve,TBD
+D2.心理社會面向,D2,12,5,Other,其他
+D3.生理面向,D3,1,1,difficulty hearing normal speech tones,難以聽懂一般腔調
+D3.生理面向,D3,1,2,difficulty hearing speech in large group settings,在吵雜的環境中有障礙
+D3.生理面向,D3,1,3,difficulty hearing high frequency sounds,難以聽見高頻音
+D3.生理面向,D3,1,4,absent/abnormal response to sound,對聲音反應異常
+D3.生理面向,D3,1,5,abnormal results of hearing screening test,聽力篩檢異常
+D3.生理面向,D3,1,6,Other,其他
+D3.生理面向,D3,2,1,difficulty seeing small print/calibrations,老花
+D3.生理面向,D3,2,2,difficulty seeing distant objects,近視
+D3.生理面向,D3,2,3,difficulty seeing close objects,遠視
+D3.生理面向,D3,2,4,absent/abnormal response to visual stimuli,對於視覺刺激沒反應/不正常反應
+D3.生理面向,D3,2,5,abnormal results of vision screening test,視力篩檢異常
+D3.生理面向,D3,2,6,squinting/blinking/tearing/blurring,瞇眼/閃爍/撕裂/模糊
+D3.生理面向,D3,2,7,floaters/flashes,飛蚊症/閃光
+D3.生理面向,D3,2,8,difficulty differentiating colors,辨色力差
+D3.生理面向,D3,2,9,Other,其他
+D3.生理面向,D3,3,1,absent/abnormal ability to speak/vocalize,缺乏/異常的談話或演講能力
+D3.生理面向,D3,3,2,absent/abnormal ability to understand,缺乏/異常的理解能力
+D3.生理面向,D3,3,3,lacks alternative communication skills/gestures,缺交互溝通的技巧或手勢
+D3.生理面向,D3,3,4,inappropriate sentence structure,句子結構不恰當
+D3.生理面向,D3,3,5,limited enunciation/clarity,發音含糊不清
+D3.生理面向,D3,3,6,inappropriate word usage,不當用字
+D3.生理面向,D3,3,7,Other,其他
+D3.生理面向,D3,4,1,missing/broken/malformed teeth,缺失/斷裂/畸形牙齒
+D3.生理面向,D3,4,2,caries,齲齒
+D3.生理面向,D3,4,3,excess tartar,牙菌斑
+D3.生理面向,D3,4,4,sore/swollen/bleeding gums,疼痛/腫脹/牙齦出血
+D3.生理面向,D3,4,5,malocclusion,咬合不正
+D3.生理面向,D3,4,6,ill-fitting/missing dentures,假牙不合/遺失
+D3.生理面向,D3,4,7,sensitivity to hot or cold,冷熱敏感
+D3.生理面向,D3,4,8,Other,其他
+D3.生理面向,D3,5,1,diminished judgment,判斷力變差
+D3.生理面向,D3,5,2,disoriented to time/place/person,定向感有異 時/地/人
+D3.生理面向,D3,5,3,limited recall of recent events,短期記憶缺失
+D3.生理面向,D3,5,4,limited recall of long past events,長期記憶缺失
+D3.生理面向,D3,5,5,limited calculating/sequencing skills,計算與排序能力差
+D3.生理面向,D3,5,6,limited concentration,難以專心
+D3.生理面向,D3,5,7,limited reasoning/abstract thinking,推理/抽象思考能力差
+D3.生理面向,D3,5,8,impulsiveness,衝動
+D3.生理面向,D3,5,9,repetitious language/behavior,重複語言/行為
+D3.生理面向,D3,5,10,wanders,遊走
+D3.生理面向,D3,5,11,Other,其他
+D3.生理面向,D3,6,1,expresses discomfort/pain,表達不舒服/痛
+D3.生理面向,D3,6,2,elevated pulse/respirations/blood pressure,脈搏快/呼吸喘/血壓高
+D3.生理面向,D3,6,3,compensated movement/guarding,TBD
+D3.生理面向,D3,6,4,restless behavior,倉促不安
+D3.生理面向,D3,6,5,facial grimaces,臉部扭曲
+D3.生理面向,D3,6,6,pallor/perspiration,蒼白/冒冷汗
+D3.生理面向,D3,6,7,Other,其他
+D3.生理面向,D3,7,1,lethargic,倦怠
+D3.生理面向,D3,7,2,stuporous,昏迷
+D3.生理面向,D3,7,3,unresponsive,沒有反應
+D3.生理面向,D3,7,4,comatose,不省人事
+D3.生理面向,D3,7,5,Other,其他
+D3.生理面向,D3,8,1,lesion/pressure ulcer,完整性受損/壓瘡
+D3.生理面向,D3,8,2,rash,皮疹
+D3.生理面向,D3,8,3,excessively dry,乾燥
+D3.生理面向,D3,8,4,excessively oily,出油
+D3.生理面向,D3,8,5,inflammation,發炎
+D3.生理面向,D3,8,6,pruritus,搔癢
+D3.生理面向,D3,8,7,drainage,引流
+D3.生理面向,D3,8,8,bruising,瘀血
+D3.生理面向,D3,8,9,hypertrophy of nails,指甲肥大
+D3.生理面向,D3,8,10,delayed incisional healing,傷口難以癒合
+D3.生理面向,D3,8,11,Other,其他
+D3.生理面向,D3,9,1,limited range of motion,有限的運動範圍
+D3.生理面向,D3,9,2,decreased muscle strength,肌肉不等長
+D3.生理面向,D3,9,3,decreased coordination,不協調
+D3.生理面向,D3,9,4,decreased muscle tone,肌肉低張
+D3.生理面向,D3,9,5,increased muscle tone,肌肉高張
+D3.生理面向,D3,9,6,decreased sensation,麻木
+D3.生理面向,D3,9,7,increased sensation,敏感
+D3.生理面向,D3,9,8,decreased balance,平衡功能下降
+D3.生理面向,D3,9,9,gait/ambulation disturbance,步態/行走障礙
+D3.生理面向,D3,9,10,difficulty transferring,難以移位
+D3.生理面向,D3,9,11,fractures,骨折
+D3.生理面向,D3,9,12,tremors/seizures,震顫/癲癇發作
+D3.生理面向,D3,9,13,difficulty with thermoregulation,體溫失控
+D3.生理面向,D3,9,14,Other,其他
+D3.生理面向,D3,10,1,abnormal breath patterns,呼吸節律異常
+D3.生理面向,D3,10,2,unable to breathe independently,無自發性呼吸
+D3.生理面向,D3,10,3,cough,咳嗽
+D3.生理面向,D3,10,4,unable to cough/expectorate independently,無法自咳痰
+D3.生理面向,D3,10,5,cyanosis,TBD
+D3.生理面向,D3,10,6,abnormal sputum,異常痰
+D3.生理面向,D3,10,7,noisy respirations,呼嚕聲
+D3.生理面向,D3,10,8,rhinorrhea/nasal congestion,TBD
+D3.生理面向,D3,10,9,normal breath sounds,不正常呼吸音
+D3.生理面向,D3,10,10,abnormal respiratory laboratory results,呼吸生理學相關檢查異常
+D3.生理面向,D3,10,11,Other,其他
+D3.生理面向,D3,11,1,edema,水腫
+D3.生理面向,D3,11,2,cramping/pain of extremities,四肢疼痛/痙攣
+D3.生理面向,D3,11,3,decreased pulses,心搏減速
+D3.生理面向,D3,11,4,discoloration of skin,皮膚變色
+D3.生理面向,D3,11,5,temperature change in affected area,TBD
+D3.生理面向,D3,11,6,varicosities,靜脈曲張
+D3.生理面向,D3,11,7,syncopal episodes (fainting)/dizziness,昏厥/頭暈
+D3.生理面向,D3,11,8,abnormal blood pressure reading,血壓值異常
+D3.生理面向,D3,11,9,pulse deficit,TBD
+D3.生理面向,D3,11,10,irregular heart rate,心律不整
+D3.生理面向,D3,11,11,excessively rapid heart rate,心搏過速
+D3.生理面向,D3,11,12,excessively slow heart rate,心搏過慢
+D3.生理面向,D3,11,13,anginal pain,心絞痛
+D3.生理面向,D3,11,14,abnormal heart sounds/murmurs,心音異常
+D3.生理面向,D3,11,15,abnormal clotting,凝血異常
+D3.生理面向,D3,11,16,abnormal cardiac laboratory results,心臟相關生理檢驗值異常
+D3.生理面向,D3,11,17,Other,其他
+D3.生理面向,D3,12,1,nausea/vomiting,噁心/嘔吐
+D3.生理面向,D3,12,2,difficulty/inability to chew/swallow/digest,難或無法咀嚼/吞嚥/消化
+D3.生理面向,D3,12,3,indigestion,消化不良
+D3.生理面向,D3,12,4,reflux,逆流
+D3.生理面向,D3,12,5,anorexia,厭食
+D3.生理面向,D3,12,6,anemia,貧血
+D3.生理面向,D3,12,7,ascites,腹水
+D3.生理面向,D3,12,8,jaundice/liver enlargement,黃疸/肝腫大
+D3.生理面向,D3,12,9,decreased skin turgor,皮膚乾癟
+D3.生理面向,D3,12,10,cracked lips/dry mouth,唇裂/口乾
+D3.生理面向,D3,12,11,electrolyte imbalance,電解質不平衡
+D3.生理面向,D3,12,12,Other,其他
+D3.生理面向,D3,13,1,abnormal frequency/consistency of stool,大便次數異於平常
+D3.生理面向,D3,13,2,painful defecation,大便時疼痛
+D3.生理面向,D3,13,3,decreased bowel sounds,TBD
+D3.生理面向,D3,13,4,blood in stools,血便
+D3.生理面向,D3,13,5,abnormal color,大便顏色異常
+D3.生理面向,D3,13,6,cramping/abdominal discomfort,腹脹不舒服
+D3.生理面向,D3,13,7,incontinent of stool,大便失禁
+D3.生理面向,D3,13,8,Other,其他
+D3.生理面向,D3,14,1,burning/painful urination,排尿有灼熱感
+D3.生理面向,D3,14,2,incontinent of urine,尿失禁
+D3.生理面向,D3,14,3,urgency/frequency,頻尿
+D3.生理面向,D3,14,4,difficulty initiating urination,剛開始尿不出來
+D3.生理面向,D3,14,5,difficulty emptying bladder,感覺尿不乾淨
+D3.生理面向,D3,14,6,abnormal amount,尿量異常
+D3.生理面向,D3,14,7,hematuria/abnormal color,血尿或不正常顏色
+D3.生理面向,D3,14,8,nocturia,夜尿頻頻
+D3.生理面向,D3,14,9,abnormal urinary laboratory results,尿液檢驗值異常
+D3.生理面向,D3,14,10,Other,其他
+D3.生理面向,D3,15,1,abnormal discharge,異常分泌物
+D3.生理面向,D3,15,2,abnormal menstrual pattern,月經週期異常
+D3.生理面向,D3,15,3,difficulty managing menopause/andropause,更年期停經滴滴答答不適
+D3.生理面向,D3,15,4,abnormal lumps/swelling/tenderness of genital organs or breasts,生殖器與乳房有硬塊腫脹疼痛
+D3.生理面向,D3,15,5,pain during or after sexual intercourse,性交疼痛(包含過程與完事後)
+D3.生理面向,D3,15,6,infertility,不孕
+D3.生理面向,D3,15,7,impotency,性無能
+D3.生理面向,D3,15,8,Other,其他
+D3.生理面向,D3,16,1,difficulty bonding with unborn baby,難與胎兒建立連結
+D3.生理面向,D3,16,2,difficulty coping with body changes,難適應身形改變
+D3.生理面向,D3,16,3,difficulty with prenatal exercise/rest/diet/behaviors,難以進行產前運動/休息/飲食/行為
+D3.生理面向,D3,16,4,fears delivery procedure,害怕生產過程
+D3.生理面向,D3,16,5,prenatal complications/preterm labory,產前併發症/早產
+D3.生理面向,D3,16,6,inadequate social support,社會支持不足
+D3.生理面向,D3,16,7,Other,其他
+D3.生理面向,D3,17,1,difficulty breast-feeding,哺乳困難
+D3.生理面向,D3,17,2,difficulty coping with postpartum changes,難以適應產後變化
+D3.生理面向,D3,17,3,difficulty with postpartum exercise/rest/diet/behaviors,難以進行產後運動/休息/飲食/行為
+D3.生理面向,D3,17,4,abnormal bleeding/vaginal discharge,不正常出血或白帶
+D3.生理面向,D3,17,5,postpartum complications,產後併發症
+D3.生理面向,D3,17,6,abnormal depressed feelings,異常沮喪感
+D3.生理面向,D3,17,7,Other,其他
+D3.生理面向,D3,18,1,infection,TBD
+D3.生理面向,D3,18,2,infestation,TBD
+D3.生理面向,D3,18,3,fever,TBD
+D3.生理面向,D3,18,4,biological hazards,TBD
+D3.生理面向,D3,18,5,positive screening/culture/laboratory results,TBD
+D3.生理面向,D3,18,6,inadequat suppliesto /equipment/policies prevent transmission,TBD
+D3.生理面向,D3,18,7,does not follow infection control regimen,TBD
+D3.生理面向,D3,18,8,inadequate immunity,TBD
+D3.生理面向,D3,18,9,other,其他
+D4.健康相關行為面向,D4,1,1,overweight: adult BMI 25.0 or more; child BMI 95th percentile or more,過重
+D4.健康相關行為面向,D4,1,2,underweight: adult BMI 18.5 or less; child BMI 5th percentile or less,過輕
+D4.健康相關行為面向,D4,1,3,lacks established standards for daily caloric/fluid intake,低於每日飲食準則(液體量/卡洛里)
+D4.健康相關行為面向,D4,1,4,exceeds established standards for daily caloric/fluid intake,高過每日飲食準則(液體量/卡洛里)
+D4.健康相關行為面向,D4,1,5,unbalanced diet,不均衡飲食
+D4.健康相關行為面向,D4,1,6,improper feeding schedule for age,與年齡不合的進食餐數
+D4.健康相關行為面向,D4,1,7,does not follow recommended nutrition plan,無法遵從營養建議
+D4.健康相關行為面向,D4,1,8,unexplained/progressive weight loss,無法解釋的體重下降
+D4.健康相關行為面向,D4,1,9,unable to obtain/prepare food,無法備餐
+D4.健康相關行為面向,D4,1,10,hypoglycemia,低血糖
+D4.健康相關行為面向,D4,1,11,hyperglycemia,高血糖
+D4.健康相關行為面向,D4,1,12,Other,其他
+D4.健康相關行為面向,D4,2,1,sleep/rest pattern disrupts family,睡眠/休息模式擾亂家庭
+D4.健康相關行為面向,D4,2,2,frequently wakes during night,常在夜裡醒來
+D4.健康相關行為面向,D4,2,3,sleepwalking,夢遊
+D4.健康相關行為面向,D4,2,4,insomnia,失眠
+D4.健康相關行為面向,D4,2,5,nightmares,噩夢
+D4.健康相關行為面向,D4,2,6,insufficient sleep/rest for age/physical condition,與年齡與身體狀況睡眠不足
+D4.健康相關行為面向,D4,2,7,sleep apnea,睡眠呼吸暫停
+D4.健康相關行為面向,D4,2,8,snoring,打鼾
+D4.健康相關行為面向,D4,2,9,Other,其他
+D4.健康相關行為面向,D4,3,1,sedentary life style,TBD
+D4.健康相關行為面向,D4,3,2,inadequate/inconsistent exercise routine,TBD
+D4.健康相關行為面向,D4,3,3,inappropriate type/amount of exercise for age/physical condition,不適合現在體能狀況的運動型態或運動量
+D4.健康相關行為面向,D4,3,4,Other,其他
+D4.健康相關行為面向,D4,4,1,difficulty laundering clothing,難以洗衣服
+D4.健康相關行為面向,D4,4,2,difficulty with bathing,難以洗澡
+D4.健康相關行為面向,D4,4,3,difficulty with toileting activities,難以上廁所
+D4.健康相關行為面向,D4,4,4,difficulty dressing lower body,難以穿脫下半身衣服
+D4.健康相關行為面向,D4,4,5,difficulty dressing upper body,難以穿脫上衣
+D4.健康相關行為面向,D4,4,6,foul body odor,身體惡臭
+D4.健康相關行為面向,D4,4,7,difficulty shampooing/combing hair,無法洗頭/梳頭
+D4.健康相關行為面向,D4,4,8,difficulty brushing/flossing/mouth care,難以刷牙/使用牙線/口腔護理
+D4.健康相關行為面向,D4,4,9,unwilling/unable/forgets to complete personal care activities,不情願/無法/忘記完成自我照護
+D4.健康相關行為面向,D4,4,10,Other,其他
+D4.健康相關行為面向,D4,5,1,abuses over-the-counter/prescription medications,TBD
+D4.健康相關行為面向,D4,5,2,uses 'street' - recreatinal drugs,TBD
+D4.健康相關行為面向,D4,5,3,abuses alcohol,酒精濫用
+D4.健康相關行為面向,D4,5,4,smokes/uses tobacco products,TBD
+D4.健康相關行為面向,D4,5,5,difficulty performing normal routines,TBD
+D4.健康相關行為面向,D4,5,6,reflex disturbances,TBD
+D4.健康相關行為面向,D4,5,7,behavior change,行為改變
+D4.健康相關行為面向,D4,5,8,exposure to cigarette/cigar smoke,TBD
+D4.健康相關行為面向,D4,5,9,buys/sells illegal substances,買賣毒品
+D4.健康相關行為面向,D4,5,10,Other,其他
+D4.健康相關行為面向,D4,6,1,inappropriate/insufficient knowledge about family planning methods,TBD
+D4.健康相關行為面向,D4,6,2,inappropriate/insufficient knowledge about preconception health practices,TBD
+D4.健康相關行為面向,D4,6,3,inaccurate/inconsistent use of family planning methods,TBD
+D4.健康相關行為面向,D4,6,4,dissatisfied with present family planning method,TBD
+D4.健康相關行為面向,D4,6,5,fears others' reactions regarding family planning choices,TBD
+D4.健康相關行為面向,D4,6,6,difficulty obtaining family planning methods,TBD
+D4.健康相關行為面向,D4,6,7,Other,其他
+D4.健康相關行為面向,D4,7,1,fails to obtain routine/preventive health care,TBD
+D4.健康相關行為面向,D4,7,2,fails to seek care for symptoms requiring evaluation/treatment,TBD
+D4.健康相關行為面向,D4,7,3,fails to return as requested to health care provider,TBD
+D4.健康相關行為面向,D4,7,4,inability to coordinate multiple appointments/treatment plans,TBD
+D4.健康相關行為面向,D4,7,5,inconsistent source of health care,健康照護資源來源不一致
+D4.健康相關行為面向,D4,7,6,inadequate source of health care,健康照護資源不足
+D4.健康相關行為面向,D4,7,7,inadequate treatment plan,治療計劃不足
+D4.健康相關行為面向,D4,7,8,Other,其他
+D4.健康相關行為面向,D4,8,1,does not follow recommended dosage/schedule,TBD
+D4.健康相關行為面向,D4,8,2,evidence of side effects/adverse reactions,TBD
+D4.健康相關行為面向,D4,8,3,inadequate system for taking medication,TBD
+D4.健康相關行為面向,D4,8,4,improper storage of medication,TBD
+D4.健康相關行為面向,D4,8,5,fails to obtain refills appropriately,TBD
+D4.健康相關行為面向,D4,8,6,fails to obtain immunizations,TBD
+D4.健康相關行為面向,D4,8,7,inadequate medication regimen,TBD
+D4.健康相關行為面向,D4,8,8,unable to take medications without help,TBD
+D4.健康相關行為面向,D4,8,9,Other,其他

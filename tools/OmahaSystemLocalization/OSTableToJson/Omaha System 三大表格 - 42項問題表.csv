@@ -1,0 +1,43 @@
+面向名稱,問題類型,代碼,英文原文
+D1.環境面向,01.Income收入(6項),1,Income
+D1.環境面向,02.Sanitation清潔衛生(11項),2,Sanitation
+D1.環境面向,03.Residence住處(14項),3,Residence
+D1.環境面向,04.Neighborhood/workplace safety社區鄰里/工作場所安全(10項),4,Neighborhood/workplace safety
+D2.心理社會面向,01.與 社區資源的整合(11項),1,Communication with community resources
+D2.心理社會面向,02.社交(3項),2,Social contact
+D2.心理社會面向,03.角色改變(3項),3,Role change
+D2.心理社會面向,04.人際關係(8項),4,Interpersonal relationship
+D2.心理社會面向,05.信仰(4項),5,Spirituality
+D2.心理社會面向,06.喪慟(4項),6,Grief
+D2.心理社會面向,07.精神健康(17項),7,Mental health
+D2.心理社會面向,08.性(8項),8,Sexuality
+D2.心理社會面向,09.照顧/教養(9項),9,Caretaking/parenting
+D2.心理社會面向,10.疏忽(6),10,Neglect
+D2.心理社會面向,11.藥物濫用(8項),11,Abuse
+D2.心理社會面向,12.成長與發展(4項),12,Growth and development
+D3.生理面向,01.聽力(5項),1,Hearing
+D3.生理面向,02.視力8項,2,Vision
+D3.生理面向,03.談話、語言能力,3,Speech and language
+D3.生理面向,04.口腔健康,4,Oral health
+D3.生理面向,05.認知,5,Cognition
+D3.生理面向,06.病痛,6,Pain
+D3.生理面向,07.意識,7,Consciousness
+D3.生理面向,08.皮膚,8,Skin
+D3.生理面向,09.神經-肌肉-骨骼功能,9,Neuro-musculo-skeletal function
+D3.生理面向,10.呼吸,10,Respiration
+D3.生理面向,11.循環,11,Circulation
+D3.生理面向,12.消化-水分補充,12,Digestion-hydration
+D3.生理面向,13.腸道功能,13,Bowel function
+D3.生理面向,14.排尿功能,14,Urinary function
+D3.生理面向,15.生殖功能,15,Reproductive function
+D3.生理面向,16.懷孕,16,Pregnancy
+D3.生理面向,17.產後,17,Postpartum
+D3.生理面向,18.Communicatable/infectious condition,18,Communicable/infectious condition
+D4.健康相關行為面向,01.營養,1,Nutrition
+D4.健康相關行為面向,02.睡覺與休息習慣,2,Sleep and rest patterns
+D4.健康相關行為面向,03.體能活動,3,Physical activity
+D4.健康相關行為面向,04.個人照顧,4,Personal care
+D4.健康相關行為面向,05.成癮藥物使用,5,Substance use
+D4.健康相關行為面向,06.家庭計畫,6,Family planning
+D4.健康相關行為面向,07.健康照顧督導,7,Health care supervision
+D4.健康相關行為面向,08.用藥習慣,8,Medication regimen
